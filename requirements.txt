@@ -4,3 +4,4 @@ streamlit
 pdfminer.six
 transformers
 ollama
+langchain-community
