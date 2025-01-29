@@ -1,0 +1,6 @@
+langchain
+chromadb
+streamlit
+pdfminer.six
+transformers
+ollama
