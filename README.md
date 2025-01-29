@@ -1,44 +1,59 @@
-DeepSeek Research Assistant 🧠📚
-AI-Powered Paper Summarizer & Q&A using DeepSeek-R1-8B
+### **📌 DeepSeek Research Assistant**  
+🚀 **AI-Powered Research Paper Summarizer & Q&A** using **DeepSeek-R1-8B**  
 
-🔹 Overview
-DeepSeek Research Assistant is an AI tool that helps students and researchers analyze research papers effortlessly. Using DeepSeek-R1-8B, this tool provides:
-✔️ Summarized key insights from uploaded research papers.
-✔️ Suggested questions to enhance understanding.
-✔️ Interactive Q&A to dive deeper into specific topics.
+---
 
-🔹 Features
-✅ Upload PDF Papers – Extracts and processes research content.
-✅ AI-Powered Summarization – Quickly grasp key findings.
-✅ Auto-Generated Questions – Helps users reflect on the content.
-✅ Interactive Q&A – Ask follow-up questions for deeper insights.
-✅ Built with LangChain, ChromaDB, and Streamlit – Ensuring efficient performance.
+### **📝 Description**  
+DeepSeek Research Assistant is an AI-powered tool designed for **students and professors** to quickly analyze research papers. Users can:  
+✅ **Upload PDFs** of research papers  
+✅ **Get key summaries** for quick understanding  
+✅ **Receive suggested questions** to deepen comprehension  
+✅ **Ask follow-up questions** for more detailed insights  
 
-🔹 Tech Stack
-DeepSeek-R1-8B – NLP Model for summarization & Q&A
-LangChain – For document parsing & retrieval
-ChromaDB – Vector search for semantic understanding
-Streamlit – Simple UI for easy interaction
-🔹 Installation & Setup
-Clone the Repository
-bash
-Copy
-Edit
+Built with **DeepSeek-R1-8B, LangChain, ChromaDB, and Streamlit**, this tool enhances research accessibility and speeds up the learning process.
+
+---
+
+### **⚙️ Tech Stack**
+- **DeepSeek-R1-8B** – AI-powered text understanding  
+- **LangChain** – Text processing and question generation  
+- **ChromaDB** – Semantic search for deeper insights  
+- **Streamlit** – User-friendly web interface  
+
+---
+
+### **🚀 Installation**
+```bash
 git clone https://github.com/YourUsername/deepseek-research-assistant.git
 cd deepseek-research-assistant
-Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the App
-bash
-Copy
-Edit
 streamlit run app.py
-🔹 Contributing
-Feel free to fork this repo, submit pull requests, or suggest improvements! 🚀
+```
 
-🔹 License
-MIT License 📜
+---
+
+### **📌 How It Works**
+1️⃣ **Upload a research paper (PDF)**  
+2️⃣ **AI generates a summary** with key points  
+3️⃣ **Get suggested questions** for deeper understanding  
+4️⃣ **Ask any follow-up questions** for further insights  
+
+---
+
+### **💡 Future Improvements**
+🔹 Add **multilingual support** for research papers  
+🔹 Implement **citation extraction & reference summarization**  
+🔹 Enhance **interactive discussion** with the AI  
+
+---
+
+### **🤝 Contributing**
+Feel free to **fork the repo** and contribute! Open an issue or pull request to suggest improvements. 🚀  
+
+---
+
+### **📜 License**
+This project is licensed under the **MIT License**.
+
+---
 
