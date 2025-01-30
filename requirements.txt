@@ -6,3 +6,5 @@ transformers
 ollama
 langchain-community
 langchain-ollama
+sentence-transformers
+rank_bm25
