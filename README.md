@@ -45,7 +45,6 @@ This project is licensed under the **MIT License**.
 
 ### **🔗 Explore My Other AI & Data Science Projects!**  
 📌 **GitHub Portfolio:** [PouyaPourfarrokh](https://github.com/PouyaPourfarrokh)  
-📌 **LinkedIn Profile:** [Connect with me](https://www.linkedin.com/in/pouyapourfarrokh/)  
+📌 **LinkedIn Profile:** [Connect with me](https://www.linkedin.com/in/pouyapourfarokh/)  
 
 👨‍💻 **Made with ❤️ using DeepSeek-R1 & LangChain**  
-```
