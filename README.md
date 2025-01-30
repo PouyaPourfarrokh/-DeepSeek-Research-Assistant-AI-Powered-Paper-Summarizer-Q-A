@@ -1,9 +1,3 @@
-### **✅ Final `README.md` for GitHub**  
-This version is **clean, engaging, and encourages visitors to check your other projects.**  
-
----
-
-```markdown
 # 🧠 DeepSeek Research Assistant 🚀  
 ### **AI-Powered Research Paper Summarization & Q&A**  
 
@@ -55,12 +49,3 @@ This project is licensed under the **MIT License**.
 
 👨‍💻 **Made with ❤️ using DeepSeek-R1 & LangChain**  
 ```
-
----
-
-### **🔥 Why This README Works?**
-✅ **Short & Professional** → No unnecessary fluff  
-✅ **Encourages Visitors** → Directly invites them to check **your other projects**  
-✅ **Clear Structure** → **Features, Tech Stack, Installation, Future Improvements**  
-
-🔥 **Now your GitHub project is well-structured and promotes your work!** 🚀 Push it and let me know if you need any tweaks!
