@@ -1,59 +1,66 @@
-### **📌 DeepSeek Research Assistant**  
-🚀 **AI-Powered Research Paper Summarizer & Q&A** using **DeepSeek-R1-8B**  
+### **✅ Final `README.md` for GitHub**  
+This version is **clean, engaging, and encourages visitors to check your other projects.**  
 
 ---
 
-### **📝 Description**  
-DeepSeek Research Assistant is an AI-powered tool designed for **students and professors** to quickly analyze research papers. Users can:  
-✅ **Upload PDFs** of research papers  
-✅ **Get key summaries** for quick understanding  
-✅ **Receive suggested questions** to deepen comprehension  
-✅ **Ask follow-up questions** for more detailed insights  
+```markdown
+# 🧠 DeepSeek Research Assistant 🚀  
+### **AI-Powered Research Paper Summarization & Q&A**  
 
-Built with **DeepSeek-R1-8B, LangChain, ChromaDB, and Streamlit**, this tool enhances research accessibility and speeds up the learning process.
+DeepSeek Research Assistant is an **AI-powered tool** that helps **students, researchers, and professors** quickly analyze research papers.  
 
----
+## **✨ Features**  
+✅ **Upload any research paper (PDF)**  
+✅ **Get AI-generated summaries with key insights**  
+✅ **Ask custom questions**, and the model retrieves the most relevant answers  
+✅ **Receive exact citations from the document**  
 
-### **⚙️ Tech Stack**
+## **⚙️ Tech Stack**  
 - **DeepSeek-R1-8B** – AI-powered text understanding  
-- **LangChain** – Text processing and question generation  
-- **ChromaDB** – Semantic search for deeper insights  
-- **Streamlit** – User-friendly web interface  
+- **LangChain** – Retrieval-based Q&A  
+- **ChromaDB** – Semantic search for deep insights  
+- **pdfminer.six** – Text extraction from research papers  
+- **Jupyter Notebook** – Interactive interface for querying papers  
 
----
-
-### **🚀 Installation**
+## **🚀 Installation & Setup**  
 ```bash
-git clone https://github.com/YourUsername/deepseek-research-assistant.git
+git clone https://github.com/PouyaPourfarrokh/deepseek-research-assistant.git
 cd deepseek-research-assistant
 pip install -r requirements.txt
-streamlit run app.py
+jupyter notebook
+```
+
+## **📌 How It Works**  
+1️⃣ **Upload a research paper (PDF) inside the `Research_papers/` folder**  
+2️⃣ **Run all cells** in the Jupyter Notebook  
+3️⃣ **AI extracts key points & generates summaries**  
+4️⃣ **Ask follow-up questions**, and the AI finds relevant answers  
+
+## **💡 Future Improvements**  
+🔹 Add **multilingual support**  
+🔹 Implement **citation extraction & reference summarization**  
+🔹 Enhance **AI interaction for more dynamic discussions**  
+
+## **🤝 Contributing**  
+Fork the repo, submit issues, or create pull requests to improve the project! 🚀  
+
+## **📜 License**  
+This project is licensed under the **MIT License**.  
+
+---
+
+### **🔗 Explore My Other AI & Data Science Projects!**  
+📌 **GitHub Portfolio:** [PouyaPourfarrokh](https://github.com/PouyaPourfarrokh)  
+📌 **LinkedIn Profile:** [Connect with me](https://www.linkedin.com/in/pouyapourfarrokh/)  
+
+👨‍💻 **Made with ❤️ using DeepSeek-R1 & LangChain**  
 ```
 
 ---
 
-### **📌 How It Works**
-1️⃣ **Upload a research paper (PDF)**  
-2️⃣ **AI generates a summary** with key points  
-3️⃣ **Get suggested questions** for deeper understanding  
-4️⃣ **Ask any follow-up questions** for further insights  
+### **🔥 Why This README Works?**
+✅ **Short & Professional** → No unnecessary fluff  
+✅ **Encourages Visitors** → Directly invites them to check **your other projects**  
+✅ **Clear Structure** → **Features, Tech Stack, Installation, Future Improvements**  
 
----
-
-### **💡 Future Improvements**
-🔹 Add **multilingual support** for research papers  
-🔹 Implement **citation extraction & reference summarization**  
-🔹 Enhance **interactive discussion** with the AI  
-
----
-
-### **🤝 Contributing**
-Feel free to **fork the repo** and contribute! Open an issue or pull request to suggest improvements. 🚀  
-
----
-
-### **📜 License**
-This project is licensed under the **MIT License**.
-
----
-
+🔥 **Now your GitHub project is well-structured and promotes your work!** 🚀 Push it and let me know if you need any tweaks!
